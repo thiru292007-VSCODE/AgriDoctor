@@ -1,0 +1,36 @@
+{
+  "Tomato - Early Blight": {
+    "advisory": "Remove and safely dispose of severely affected leaves. Keep the crop area clean and avoid unnecessary leaf wetness. For chemical control, follow locally approved agricultural recommendations.",
+    "advisory_tamil": "கடுமையாக பாதிக்கப்பட்ட இலைகளை அகற்றி பாதுகாப்பாக அகற்றவும். பயிர் பகுதியை சுத்தமாக வைத்திருக்கவும். இலைகளில் தேவையற்ற ஈரப்பதத்தைத் தவிர்க்கவும். ரசாயன கட்டுப்பாட்டிற்கு உள்ளூர் வேளாண்மை பரிந்துரைகளைப் பின்பற்றவும்."
+  },
+
+  "Tomato - Late Blight": {
+    "advisory": "Remove severely affected plant material and avoid prolonged leaf wetness. Monitor the crop regularly. For chemical control, follow locally approved agricultural recommendations.",
+    "advisory_tamil": "கடுமையாக பாதிக்கப்பட்ட தாவரப் பகுதிகளை அகற்றவும். இலைகளில் நீண்ட நேரம் ஈரப்பதம் இருப்பதைத் தவிர்க்கவும். பயிரை தொடர்ந்து கண்காணிக்கவும். ரசாயன கட்டுப்பாட்டிற்கு உள்ளூர் வேளாண்மை பரிந்துரைகளைப் பின்பற்றவும்."
+  },
+
+  "Tomato - Bacterial Spot": {
+    "advisory": "Remove severely affected plant material and maintain good field sanitation. Avoid handling plants when they are wet. For further treatment, follow locally approved agricultural recommendations.",
+    "advisory_tamil": "கடுமையாக பாதிக்கப்பட்ட தாவரப் பகுதிகளை அகற்றி வயல் சுகாதாரத்தைப் பராமரிக்கவும். தாவரங்கள் ஈரமாக இருக்கும்போது அவற்றைத் தொடுவதைத் தவிர்க்கவும். மேலதிக சிகிச்சைக்கு உள்ளூர் வேளாண்மை பரிந்துரைகளைப் பின்பற்றவும்."
+  },
+
+  "Potato - Early Blight": {
+    "advisory": "Remove severely affected foliage where practical and maintain good crop sanitation. Monitor the crop regularly and follow locally approved agricultural recommendations for treatment.",
+    "advisory_tamil": "கடுமையாக பாதிக்கப்பட்ட இலைகளை முடிந்தவரை அகற்றவும். பயிர் சுகாதாரத்தைப் பராமரிக்கவும். பயிரை தொடர்ந்து கண்காணித்து, சிகிச்சைக்காக உள்ளூர் வேளாண்மை பரிந்துரைகளைப் பின்பற்றவும்."
+  },
+
+  "Potato - Late Blight": {
+    "advisory": "Monitor plants frequently and remove severely affected material where practical. Avoid prolonged leaf wetness. Follow locally approved agricultural recommendations for treatment.",
+    "advisory_tamil": "தாவரங்களை அடிக்கடி கண்காணித்து, கடுமையாக பாதிக்கப்பட்ட பகுதிகளை முடிந்தவரை அகற்றவும். இலைகளில் நீண்ட நேரம் ஈரப்பதம் இருப்பதைத் தவிர்க்கவும். சிகிச்சைக்காக உள்ளூர் வேளாண்மை பரிந்துரைகளைப் பின்பற்றவும்."
+  },
+
+  "Corn - Common Rust": {
+    "advisory": "Monitor the crop regularly for rust symptoms and maintain good crop management. If symptoms increase, consult a local agricultural expert for appropriate control recommendations.",
+    "advisory_tamil": "துரு நோயின் அறிகுறிகளுக்காக பயிரை தொடர்ந்து கண்காணிக்கவும். நல்ல பயிர் மேலாண்மையைப் பின்பற்றவும். அறிகுறிகள் அதிகரித்தால், சரியான கட்டுப்பாட்டு பரிந்துரைகளுக்கு உள்ளூர் வேளாண்மை நிபுணரை அணுகவும்."
+  },
+
+  "Apple - Cedar Apple Rust": {
+    "advisory": "Monitor affected leaves and remove severely affected plant material where practical. For further management, follow locally approved agricultural recommendations.",
+    "advisory_tamil": "பாதிக்கப்பட்ட இலைகளை கண்காணித்து, கடுமையாக பாதிக்கப்பட்ட தாவரப் பகுதிகளை முடிந்தவரை அகற்றவும். மேலாண்மைக்காக உள்ளூர் வேளாண்மை பரிந்துரைகளைப் பின்பற்றவும்."
+  }
+}
