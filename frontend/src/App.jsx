@@ -32,7 +32,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "https://agridoctor-backend-jym6.onrender.com",
+        "https://agridoctor-backend-jym6.onrender.com/predict",
         {
           method: "POST",
           body: formData,
