@@ -9,8 +9,10 @@ import json
 
 app = FastAPI(title="AgriDoctor API")
 
-MODEL_PATH = Path("Models/best_mnv2_v2.keras")
-ADVISORY_PATH = Path("advisories.json")
+BASE_DIR = Path(__file__).resolve().parent
+
+MODEL_PATH = BASE_DIR / "Models" / "best_mnv2_v2.keras"
+ADVISORY_PATH = BASE_DIR / "advisories.json"
 
 with open(ADVISORY_PATH, "r", encoding="utf-8") as f:
     advisories = json.load(f)
